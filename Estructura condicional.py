@@ -1,5 +1,7 @@
-#determinar si un
-#numero es divisor de otro.
+# Ejercicios con estructura condicional if (Este archivo esta incompleto, mas adelante subire la actualizacion)
+# Importante: Recuerda quitar al inicio y al final de cada script las triples comillas (""") para que deje de ser una cadena de caracteres
+# y vuelve a poner las triples comillas una vez termines de probar el script.
+#determinar si un numero es divisor de otro.
 """
 N1 = int(input("Ingrese un número: "))
 N2 = int(input("Ingrese otro número: "))
@@ -122,7 +124,7 @@ if D < A:
 elif D > A:
     print("La esfera D tiene meyor peso")
 """
-
+"""
 Categoria = int(input("Ingresa la categoria en la que te encuentras: "))
 Unidades = input("¿Cuantas unidades produces?: ")
 Salario = int(input("¿Cual es tu salario?: "))
@@ -135,7 +137,7 @@ elif Categoria == 3 and Unidades > "50":
 elif Categoria == 4 and Unidades > "50":
     X = (115 * Salario)/100
 print("Su salario devengado es: ",X)
-
+"""
 """
 Salario = 900000
 Departamento1 = int(input("Departamento 1 ingrese el total de ventas: "))

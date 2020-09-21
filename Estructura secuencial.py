@@ -1,3 +1,7 @@
+#Ejercicios de estructura secuencial en python.
+#Son ejercicos bastante simples, en algunos les falta el enunciado, pero solo con ver el scrip
+#sabras que hace, no es nada del otro mundo, este archivo no sera actualizado
+
 #.Determine la temperatura en grados Fahrenheit a partir del valor en grados
 #centígrados. Dado por la siguiente ecuación:
 
@@ -38,6 +42,7 @@ print("\nSu nuevo salario es de:",Nuevo_Salario)
 #Sistemas: 15% de administración
 #Administración: 30% de la donación
 #Diseñe un algoritmo que determine cuanto recibirá cada carrera. 
+#Este algoritmo es erroneo, tuve mala interpretacion y reparti mal los porcentajes, no lo corregire.
 """
 print("\nDeterminare el valor de la donacion como un valor definido, el cual sera: 20 millones de pesos\n")
 Donacion = 20000000
@@ -51,8 +56,9 @@ print("Administracion recibira:",PorFinal_Admin)
 print("Sistemas recibira:",PorFinal_Sistemas)
 print("Telecomunicacion recibira:",Por_Teleco)
 """
-
+"""
 HorasLab = int(input("Ingrese las horas laboradas: "))
 Pago = HorasLab * 22200
 Pago_semanal = (90 * Pago)/100
 print(Pago_semanal)
+"""

@@ -1,3 +1,12 @@
 # Pensaminto-Algoritmico
-Trabajos realizados en la clase de pensamiento algorítmico de la Universidad de Medellín - Colombia
-Estos trabajos no estan en orden y el titulo de los archivos es irrelevante, mas adelante cambiare el nombre de los archivos y los subire en orden referente a los temas vistos en clase.
+Trabajos y examenes realizados en la clase de pensamiento algorítmico de la Universidad de Medellín - Colombia
+
+# Orden reciente de los archivos referente a los temas y examenes
+Estructura secuencial.py
+Estructura condicional.py
+Examen.py (Primer examen)
+Jhan Galvis.py (Ultimo punto del primer examen)
+Ciclo For.py
+Ciclo While.py
+
+El resto de los archivos sigue sin ser ordenado y su contenido hasta que no se ordene es irrelevante

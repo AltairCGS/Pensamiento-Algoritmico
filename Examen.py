@@ -1,8 +1,11 @@
-
+#Esto es simplemente un archivo donde comprobe la pruebas de escritorio
+#del primer examen
+"""
 M = 7
 N = 14
 X = (N % M > 0) and ((N // M < 50) or (N < 50))
 print(X)
+"""
 
 """
 X = 4

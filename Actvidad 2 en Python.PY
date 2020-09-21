@@ -1,3 +1,7 @@
+#En esta actividad basicamente hacemos calculos sencillos con variables para derterminar si nos dan un resultado bool
+#o como en otros ejercicios para determinar el resultado final de una vareble
+#Esto en el curso no se debia hacer en python, se debian hacer pruebas de escritrorio en pseudocodigo
+#pero a mi se me dio la gana de realizarlo en python tambien para practicar.
 #1-	Determine el valor de verdad de cada expresión:
 #A = 10, B = 3
 #a-	(A > B) or (B > A)
@@ -172,19 +176,19 @@ print("La ultima operacion es B: ", int(B))
 #-----------------------------------------
 """#(<-Quitar triples comillas para comprobar el algoritmo)
 #5-	Conceptos de programación. Preguntas de falso y verdadero y selección múltiple con única respuesta.
-#print(" ")
+"""#(<-Quitar triples comillas para comprobar el algoritmo)
+#-----------------------------------------
 print("\na- Un programa es una lista bien definida, ordenada y finita de operaciones que permite hallar la solución a un problema." )
-#print(" ")
 while True: 
     X =  input('\nResponda: Verdadero o Falso: ')
     if X.capitalize() == "Falso":
-        #print(" ")
         print ('\nRespuesta correcta')
         break
     elif X.capitalize() == "Verdadero":
-        #print(" ") 
         print("\nRespuesta incorrecta")
         break
     else:
-        #print(" ") 
         print("\nERROR. Recuerda que solo puedes ingresar Verdadero o Falso")
+#-----------------------------------------
+"""#(<-Quitar triples comillas para comprobar el script)
+# El script de arriba es irrelebante, ya que no habiamos comenzado a ver condicionales.
