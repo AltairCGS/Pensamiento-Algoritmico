@@ -50,7 +50,6 @@ if n < 0:
     numero = n * -1
 else:
     numero = n
-    
 contador = 1
 control = 10
 while control <= numero:
