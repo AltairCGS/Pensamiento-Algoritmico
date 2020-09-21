@@ -44,7 +44,6 @@ while n > 9:
     cifras = cifras + 1
 print ("Tu numero tiene",cifras,"cifras")
 """
-
 n = int(input("Ingrese un numero: "))
 if n < 0:
     numero = n * -1
