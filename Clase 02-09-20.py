@@ -62,7 +62,6 @@ print("El factorial de",num,"es",factorial)
 """
 #De los primeros 100 números enteros positivos, calcule el promedio de sus
 # números pares y el promedio de sus números impares.
-"""
 sum_numeros_pares = 0
 sum_numeros_impares = 0
 for i in range (1,101):
@@ -76,5 +75,3 @@ print("Suma de pares:",sum_numeros_pares)
 print("Suma de impares:",sum_numeros_impares)
 print("El promedio de numeros pares es:",Promedio_pares)
 print("El promedio de numeros impares es:",Promedio_impares)
-"""
-
