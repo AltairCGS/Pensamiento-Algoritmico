@@ -171,14 +171,10 @@ B = C - B
 print("La ultima operacion es B: ", int(B))
 #-----------------------------------------
 """#(<-Quitar triples comillas para comprobar el algoritmo)
-
-
 #5-	Conceptos de programación. Preguntas de falso y verdadero y selección múltiple con única respuesta.
-
 #print(" ")
 print("\na- Un programa es una lista bien definida, ordenada y finita de operaciones que permite hallar la solución a un problema." )
 #print(" ")
-
 while True: 
     X =  input('\nResponda: Verdadero o Falso: ')
     if X.capitalize() == "Falso":
