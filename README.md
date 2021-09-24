@@ -16,3 +16,4 @@ Ciclo For.py
 Ciclo While.py
 #
 El resto de los archivos sigue sin ser ordenado y su contenido hasta que no se ordene es irrelevante
+20-09-2021 (Este repositorio no fue ni sera más actualizado, el contenido mostrado no fue la totalidad del curso)
